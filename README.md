@@ -1,4 +1,6 @@
 # Bluepill
+
+[![Join the chat at https://gitter.im/CozyCo/bluepill](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CozyCo/bluepill?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Bluepill is a simple process monitoring tool written in Ruby.
 
 [![Build Status](https://travis-ci.org/bluepill-rb/bluepill.png)](https://travis-ci.org/bluepill-rb/bluepill)
